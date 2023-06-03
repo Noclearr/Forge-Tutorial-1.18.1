@@ -1,0 +1,6 @@
+{
+  "parent": "cube_all",
+  "textures": {
+    "all": "tutorialmod:block/hemp_block"
+  }
+}
